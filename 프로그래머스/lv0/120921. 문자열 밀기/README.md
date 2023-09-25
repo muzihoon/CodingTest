@@ -1,10 +1,10 @@
 # [level 0] 문자열 밀기 - 120921 
 
-[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120921) 
+[문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/120921?language=java) 
 
 ### 성능 요약
 
-메모리: 72.3 MB, 시간: 10.10 ms
+메모리: 76.2 MB, 시간: 11.08 ms
 
 ### 구분
 
